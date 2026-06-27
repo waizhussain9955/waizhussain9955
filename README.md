@@ -83,25 +83,49 @@
 <table bordercolor="#444444">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 AI-Powered Developer Portfolio & CRM</h3>
+      <h3 align="center">📹 TikTok Downloader App</h3>
+      <div align="center">
+        <a href="https://github.com/waizhussain9955">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=waizhussain9955&repo=waizhussain9955&theme=tokyonight&title=TikTok-Downloader&description=High-speed+mobile+application+for+downloading+TikTok+videos+without+watermarks" width="90%" />
+        </a>
+      </div>
+      <p align="left">
+        <br>A robust mobile application built with <b>Flutter</b> to seamlessly download TikTok videos in high quality without watermarks. Features an intuitive UI, fast processing, and local media management.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📸 Instagram Downloader Web</h3>
+      <div align="center">
+        <a href="https://github.com/waizhussain9955">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=waizhussain9955&repo=waizhussain9955&theme=tokyonight&title=Instagram-Downloader&description=Fast+and+responsive+web+application+to+download+Reels,+Stories,+and+Posts" width="90%" />
+        </a>
+      </div>
+      <p align="left">
+        <br>A responsive web platform built with <b>Next.js</b> and Node.js that allows users to instantly download Instagram Reels, Stories, and posts using advanced backend scraping APIs.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌍 G-Translator App</h3>
+      <div align="center">
+        <a href="https://github.com/waizhussain9955">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=waizhussain9955&repo=waizhussain9955&theme=tokyonight&title=G-Translator&description=Powerful+multi-language+translation+application+providing+real-time+translation" width="90%" />
+        </a>
+      </div>
+      <p align="left">
+        <br>An advanced language translation application providing real-time text and speech translation. Integrates powerful APIs to deliver seamless multi-language support globally.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI Portfolio & CRM</h3>
       <div align="center">
         <a href="https://waiz-portfolio.vercel.app">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=waizhussain9955&repo=portfolio&theme=tokyonight&show_owner=true" width="90%" />
         </a>
       </div>
       <p align="left">
-        <br>A premium portfolio platform featuring a highly intelligent <b>RAG (Retrieval-Augmented Generation) Chatbot</b> powered by Cerebras Llama 3.1 8B. Includes a full CRM admin panel, secure client portal, custom CMS, and multilingual support. Built with Next.js 14 and Neon DB.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📺 FIFA Arena Streaming Backend</h3>
-      <div align="center">
-        <a href="https://github.com/waizhussain9955">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=waizhussain9955&repo=waizhussain9955&theme=tokyonight&title=FIFA-Arena-Backend&description=Production-ready+Serverless+PHP+Streaming+API+with+Supabase" width="90%" />
-        </a>
-      </div>
-      <p align="left">
-        <br>A highly secure, high-performance streaming backend API managing sports channels. Built with <b>Vercel Serverless PHP 8.2</b> and <b>Supabase PostgreSQL</b> for zero cold-start overhead and rapid mobile app consumption via Flutter.
+        <br>A premium portfolio platform featuring a highly intelligent <b>RAG (Retrieval-Augmented Generation) Chatbot</b> powered by Cerebras Llama 3.1. Includes a CRM admin panel and multilingual support.
       </p>
     </td>
   </tr>
